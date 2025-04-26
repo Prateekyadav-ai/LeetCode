@@ -49,4 +49,8 @@
 |  |
 | ------- |
 | [2915-count-of-interesting-subarrays](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+## String
+|  |
+| ------- |
+| [1542-consecutive-characters](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1542-consecutive-characters) |
 <!---LeetCode Topics End-->
