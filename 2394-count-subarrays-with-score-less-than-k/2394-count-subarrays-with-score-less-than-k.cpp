@@ -3,17 +3,17 @@ public:
     long long countSubarrays(vector<int>& nums, long long k) {
         long long count = 0;
         long long sum = 0;
-        int left = 0;
+        int i = 0;
         
-        for (int right = 0; right < nums.size(); ++right) {
-            sum += nums[right];
+        for (int j = 0; j < nums.size(); ++j) {
+            sum += nums[j];
             
-            while (left <= right && sum * (right - left + 1) >= k) {
-                sum -= nums[left];
-                left++;
+            while (i <= j && sum * (j - i + 1) >= k) {
+                sum -= nums[i];
+                i++;
             }
             
-            count += (right - left + 1);
+            count += (j - i + 1);
         }
         
         return count;
