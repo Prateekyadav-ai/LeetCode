@@ -15,6 +15,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0189-rotate-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0189-rotate-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
@@ -57,9 +58,14 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [1542-consecutive-characters](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1542-consecutive-characters) |
 ## Sliding Window
 |  |
 | ------- |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
