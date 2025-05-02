@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0058-length-of-last-word](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0058-length-of-last-word) |
 | [1542-consecutive-characters](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1542-consecutive-characters) |
 ## Sliding Window
 |  |
