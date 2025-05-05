@@ -9,7 +9,7 @@ public:
         
         if (memo[n] != -1) return memo[n];
 
-        int k = (2LL * solve(n - 1, memo) % MOD + solve(n - 3, memo)) % MOD;
+        int k = (2 * solve(n - 1, memo) % MOD + solve(n - 3, memo)) % MOD;
         return memo[n] = k;
     }
 
