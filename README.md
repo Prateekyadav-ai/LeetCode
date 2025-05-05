@@ -76,6 +76,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0806-domino-and-tromino-tiling](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 ## Combinatorics
 |  |
 | ------- |
