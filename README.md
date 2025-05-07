@@ -14,6 +14,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2915-count-of-interesting-subarrays](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,4 +86,17 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0063-unique-paths-ii) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Graph
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
