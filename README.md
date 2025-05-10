@@ -9,6 +9,7 @@
 | [0189-rotate-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0797-rabbits-in-forest](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -26,6 +27,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
