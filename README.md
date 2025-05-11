@@ -75,6 +75,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0058-length-of-last-word) |
+| [1250-longest-common-subsequence](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1542-consecutive-characters](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1542-consecutive-characters) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Sliding Window
@@ -88,6 +89,7 @@
 | [0062-unique-paths](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0806-domino-and-tromino-tiling](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
+| [1250-longest-common-subsequence](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Combinatorics
 |  |
