@@ -48,6 +48,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2915-count-of-interesting-subarrays](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0797-rabbits-in-forest](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Greedy
 |  |
@@ -83,6 +85,7 @@
 | [1250-longest-common-subsequence](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1542-consecutive-characters](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1542-consecutive-characters) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Sliding Window
 |  |
@@ -97,6 +100,7 @@
 | [0806-domino-and-tromino-tiling](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [1250-longest-common-subsequence](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Combinatorics
 |  |
@@ -132,4 +136,5 @@
 |  |
 | ------- |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 <!---LeetCode Topics End-->
