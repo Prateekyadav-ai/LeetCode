@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0075-sort-colors](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -28,6 +29,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0189-rotate-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
@@ -41,6 +43,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0075-sort-colors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Hash Table
