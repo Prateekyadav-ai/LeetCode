@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0189-rotate-array) |
@@ -54,6 +55,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0290-word-pattern](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0290-word-pattern) |
 | [0797-rabbits-in-forest](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -133,6 +135,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Graph
