@@ -69,6 +69,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0189-rotate-array) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0797-rabbits-in-forest](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3321-type-of-triangle](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3321-type-of-triangle) |
@@ -121,6 +122,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0806-domino-and-tromino-tiling](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [1250-longest-common-subsequence](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -175,4 +177,8 @@
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
