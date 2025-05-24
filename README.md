@@ -110,6 +110,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0072-edit-distance) |
 | [0290-word-pattern](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0290-word-pattern) |
 | [1250-longest-common-subsequence](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1542-consecutive-characters](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1542-consecutive-characters) |
@@ -130,6 +131,7 @@
 | [0044-wildcard-matching](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0072-edit-distance](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0072-edit-distance) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0806-domino-and-tromino-tiling](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
