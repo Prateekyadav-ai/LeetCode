@@ -14,6 +14,7 @@
 | [0485-max-consecutive-ones](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0797-rabbits-in-forest](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1293-three-consecutive-odds](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -81,6 +82,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0011-container-with-most-water) |
 | [0797-rabbits-in-forest](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3647-zero-array-transformation-iii) |
@@ -124,6 +126,7 @@
 | [0063-unique-paths-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0806-domino-and-tromino-tiling](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1250-longest-common-subsequence](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -181,4 +184,12 @@
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Stack
+|  |
+| ------- |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 <!---LeetCode Topics End-->
