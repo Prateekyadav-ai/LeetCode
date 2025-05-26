@@ -65,6 +65,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0290-word-pattern](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0290-word-pattern) |
 | [0797-rabbits-in-forest](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2915-count-of-interesting-subarrays](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
@@ -144,6 +145,7 @@
 | [0806-domino-and-tromino-tiling](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1250-longest-common-subsequence](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -166,6 +168,7 @@
 ## Graph
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Heap (Priority Queue)
@@ -186,6 +189,7 @@
 ## Counting
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -213,4 +217,12 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
