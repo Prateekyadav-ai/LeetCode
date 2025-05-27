@@ -79,6 +79,7 @@
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0797-rabbits-in-forest](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
