@@ -239,6 +239,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -249,4 +250,8 @@
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
