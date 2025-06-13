@@ -25,6 +25,7 @@
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2915-count-of-interesting-subarrays](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -53,6 +54,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | [0797-rabbits-in-forest](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3647-zero-array-transformation-iii) |
