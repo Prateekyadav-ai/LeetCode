@@ -11,6 +11,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0797-rabbits-in-forest](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -151,6 +152,7 @@
 | [0062-unique-paths](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0072-edit-distance) |
+| [0118-pascals-triangle](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0118-pascals-triangle) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0806-domino-and-tromino-tiling](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
