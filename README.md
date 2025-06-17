@@ -87,6 +87,7 @@
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0797-rabbits-in-forest](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1610-xor-operation-in-an-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -215,6 +216,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1610-xor-operation-in-an-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Tree
 |  |
