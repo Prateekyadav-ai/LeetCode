@@ -14,6 +14,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0797-rabbits-in-forest](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -201,6 +203,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3647-zero-array-transformation-iii) |
@@ -276,4 +279,12 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0386-lexicographical-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
