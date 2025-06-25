@@ -24,6 +24,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -59,6 +60,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
