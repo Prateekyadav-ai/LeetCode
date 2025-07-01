@@ -11,6 +11,7 @@
 | [0063-unique-paths-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0189-rotate-array) |
@@ -150,6 +151,7 @@
 | [0044-wildcard-matching](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0079-word-search) |
 | [0290-word-pattern](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0290-word-pattern) |
 | [1250-longest-common-subsequence](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1542-consecutive-characters](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1542-consecutive-characters) |
@@ -206,6 +208,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0079-word-search) |
 | [0945-snakes-and-ladders](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -287,6 +290,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0079-word-search) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0386-lexicographical-numbers](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -315,6 +319,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0079-word-search) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Binary Tree
 |  |
