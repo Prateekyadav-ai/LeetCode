@@ -164,6 +164,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3379-score-of-a-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
