@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -324,6 +325,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0079-word-search) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Binary Tree
