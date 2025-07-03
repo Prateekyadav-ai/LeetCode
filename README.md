@@ -110,6 +110,7 @@
 | [1610-xor-operation-in-an-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3321-type-of-triangle) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -138,6 +139,7 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0044-wildcard-matching) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -257,6 +259,7 @@
 | ------- |
 | [1610-xor-operation-in-an-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Tree
 |  |
 | ------- |
@@ -335,4 +338,8 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Simulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
