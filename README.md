@@ -103,6 +103,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0279-perfect-squares) |
@@ -135,10 +136,12 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0044-wildcard-matching) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
