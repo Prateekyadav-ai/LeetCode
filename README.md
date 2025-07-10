@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0045-jump-game-ii) |
@@ -54,6 +55,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0189-rotate-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
