@@ -112,6 +112,7 @@
 | [0279-perfect-squares](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0279-perfect-squares) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0797-rabbits-in-forest](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1610-xor-operation-in-an-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -142,6 +143,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
