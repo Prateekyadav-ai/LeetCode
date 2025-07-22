@@ -173,6 +173,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1250-longest-common-subsequence](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1542-consecutive-characters](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1542-consecutive-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -353,6 +354,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0079-word-search) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Binary Tree
 |  |
