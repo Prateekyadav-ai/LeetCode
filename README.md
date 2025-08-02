@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -77,6 +78,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -91,6 +93,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0290-word-pattern](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0290-word-pattern) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -166,6 +169,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0079-word-search) |
