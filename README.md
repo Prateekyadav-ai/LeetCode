@@ -183,6 +183,7 @@
 | [0079-word-search](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0079-word-search) |
 | [0290-word-pattern](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0290-word-pattern) |
 | [0680-valid-palindrome-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0686-repeated-string-match](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0686-repeated-string-match) |
 | [1250-longest-common-subsequence](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -381,4 +382,8 @@
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
