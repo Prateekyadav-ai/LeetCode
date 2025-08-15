@@ -310,6 +310,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0337-house-robber-iii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Prateekyadav-ai/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -348,6 +349,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0337-house-robber-iii) |
 | [0386-lexicographical-numbers](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -358,6 +360,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0279-perfect-squares) |
 | [0945-snakes-and-ladders](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -389,6 +392,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0337-house-robber-iii) |
 ## Simulation
 |  |
