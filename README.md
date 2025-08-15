@@ -118,6 +118,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0279-perfect-squares) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -224,6 +225,7 @@
 | [0055-jump-game](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -342,6 +344,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Prateekyadav-ai/LeetCode/tree/master/0070-climbing-stairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Prateekyadav-ai/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Prateekyadav-ai/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Depth-First Search
